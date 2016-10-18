@@ -1,0 +1,45 @@
+body {
+    background-color: #c6e2ff;
+}
+
+p {
+    color: red;
+    font-family: sans-serif;
+}
+
+p test {
+    font-size: 20px;
+}
+
+p {
+    font-size: 2em;
+}
+
+img {
+    width: 80%;
+    border: 2px dashed #008899;
+    margin: auto;
+}
+
+div {
+    background-color: blue;
+    height: 100px;
+    width: 300px;
+    border: 3px solid red;
+}
+
+div p {
+    font-size: 1.5em;
+    color: rgb(0,255,0);
+    
+}
+
+.greenclass {
+    color: green;
+    font-size: 1em;
+    margin: auto;
+}
+
+#testid {
+    font-family: cursive;
+}
